@@ -38,7 +38,7 @@ class Header extends Component {
                 </header>
                 <section className="jumbotron text-center">
                     <div className="container">
-                        <h1 className="jumbotron-heading">Top 10 Cities Where U.S. Drivers Spend The Most Time Stuck In Traffic 2017</h1>
+                        <h1 className="jumbotron-heading">Top 10 Cities Where U.S. Drivers Spend The Most Time Stuck In Traffic 2016 and 2017</h1>
                         <p className="lead text-muted">This chart was made with D3 js <span style={{ "color":"red" }}>&hearts;</span></p>
                         <p>
                             <a target="blank" style={{ "width":"130px", "marginRight":"5px" }} href="https://github.com/uriel621/city-traffic-hours-2017" className="btn btn-info my-2">GitHub Code</a>
